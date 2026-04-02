@@ -5,4 +5,4 @@ h1 {color: rgb(18, 75, 18);  font-size: 30pt; text-align:center; text-decoration
 h2 {color: rgb(18, 75, 18); text-align:center; text-decoration: underline; }
 p::first-letter { font-size: 32px;}
 footer {font-size: 11px;}
-p, label, li, td, th {color: rgb(230, 222, 118)!important;}
+p, label, li, td, th {color: rgb(230, 222, 118);}
