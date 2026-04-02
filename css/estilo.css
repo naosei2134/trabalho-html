@@ -1,10 +1,8 @@
 body{ font-family: "Playfair Display", serif;
       background-color: blanchedalmond;
 }
-h1 {color: rgb(18, 75, 18);  font-size: 3Opt; text-align:center; text-decoration: underline;  text-decoration-style: wavy; }
+h1 {color: rgb(18, 75, 18);  font-size: 30pt; text-align:center; text-decoration: underline;  text-decoration-style: wavy; }
 h2 {color: rgb(18, 75, 18); text-align:center; text-decoration: underline; }
 p::first-letter { font-size: 32px;}
 footer {font-size: 11px;}
-body p, body label, body li, body td, body th 
-{color: rgb(8, 45, 94);
-}
+p, label, li, td, th {color: rgb(230, 222, 118);}
